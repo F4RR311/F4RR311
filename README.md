@@ -8,6 +8,8 @@
 <p align="center">
 <a href="https://vk.com/fucking.selfish"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
 <a href="https://t.me/v_leontyev"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+ <a href="https://www.linkedin.com/in/valerii-leontiev-318199230/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+ <a href="https://www.facebook.com/profile.php?id=100004443660680&sk=friends"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
 </p>
 
 ### 😎 ‍💻 Обо мне:
