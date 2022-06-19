@@ -63,8 +63,9 @@
 ### 🔥 Моя статистика:
  <img src="https://github-readme-stats.vercel.app/api?username=F4RR311&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4RR311&layout=compact" height="140px"/>
  
+ [![Codewars](https://www.codewars.com/users/F4RR311/badges/large)](https://www.codewars.com/users/F4RR311/badges/large)
  
-
+ 
 ---
 
 
