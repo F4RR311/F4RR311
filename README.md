@@ -49,7 +49,10 @@ I also love sports, I am fond of reading classical literature.
 
 ### 🥸 ‍🎓 Education:
 
-Yandex
+[<img src="https://user-images.githubusercontent.com/86494748/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" height="180px" alt="Диплом о профессиональной переподготовке по профессии «Веб-разработчик»">](https://drive.google.com/file/d/1ING00MUB_-JIHUPGflCfRtBOWcOpp1xh/view?usp=sharing)
+
+Диплом о профессиональной<br>переподготовке по профессии<br>«Веб-разработчик»
+
 
 
 ---
