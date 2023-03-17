@@ -1,6 +1,6 @@
 <h1 align="center">Hi, everybody <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h1>
 
-<h2 align="center">My name is Valery. I am a beginner Frontend developer
+<h2 align="center">My name is Valery. I am a Frontend developer
  <img src="https://media.giphy.com/media/PRgs2sn03T1xpCSWKe/giphy.gif" width="20"></h2>
 
 <p align="center"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300"  /></p>
